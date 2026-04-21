@@ -1,6 +1,6 @@
 **Boucing window and mouse input registration**
 
-##Bouncing window
+*Bouncing window*
 
 The window bounces on the screen and changes the color of it based on its position.
 I am not sure if it hits the corner some time but you can check your self.
