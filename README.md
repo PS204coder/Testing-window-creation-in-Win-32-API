@@ -1,4 +1,4 @@
-**Boucing window and mouse input registration**
+***Boucing window and mouse input registration***
 
 *Bouncing window*
 
